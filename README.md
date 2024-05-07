@@ -1,0 +1,1 @@
+This repository contains my work and submissions for the lab tasks associated with the Information and Network Security course. Each folder/module pertains to specific topics covered in the course, demonstrating practical applications of the concepts learned.
