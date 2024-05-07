@@ -1,0 +1,3 @@
+MD5(E:\7th_Semester\INS\INS_Assignment\Lab_Task2\Sub_Task5\text.txt)= 938cb816649ab83ebde09042b09e42ef
+SHA1(E:\7th_Semester\INS\INS_Assignment\Lab_Task2\Sub_Task5\text.txt)= f2ff2c9a133772fc12ba4809723a54f24e822bc1
+SHA2-256(E:\7th_Semester\INS\INS_Assignment\Lab_Task2\Sub_Task5\text.txt)= e25634405cae635ad06f811076c00fe816aace2ff001cd2de5743aa95b2e8535
